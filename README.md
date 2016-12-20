@@ -10,4 +10,4 @@ I'll be trying out:
 * a 3d object target
 * using multiple targets of all types in a single database
 
-3d objects have to be scanned with Vuforia's app, more info [here](https://library.vuforia.com/articles/Training/Vuforia-Object-Scanner-Users-Guide). [Making Google Cardboard apps with Vuforia in Unity.](https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample)
+3d objects have to be scanned with Vuforia's app, more info [here](https://library.vuforia.com/articles/Training/Vuforia-Object-Scanner-Users-Guide) and [here](https://library.vuforia.com/articles/Training/Object-Recognition). [Making Google Cardboard apps with Vuforia in Unity.](https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample)
