@@ -3,11 +3,11 @@
     <Tracking>
         <CylinderTarget name="cylinder" sideLength="2.000000"/>
         <ImageTarget name="singleImage" size="1.000000 0.562500"/>
-        <ImageTarget name="cuboid.Bottom" size="1.000000 1.000000"/>
         <ImageTarget name="cuboid.Right" size="1.000000 1.000000"/>
-        <ImageTarget name="cuboid.Left" size="1.000000 1.000000"/>
-        <ImageTarget name="cuboid.Back" size="1.000000 1.000000"/>
         <ImageTarget name="cuboid.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="cuboid.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="cuboid.Bottom" size="1.000000 1.000000"/>
+        <ImageTarget name="cuboid.Left" size="1.000000 1.000000"/>
         <ImageTarget name="cuboid.Top" size="1.000000 1.000000"/>
         <MultiTarget name="cuboid">
             <Part name="cuboid.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
